@@ -4,6 +4,6 @@
 
 Lenguaje: Java
 
-*Realicé el commit con el IDE Eclipse, para practicar :smile: *
+*Realicé el commit con el IDE Eclipse, para practicar* :smile: 
 
 *Algunos ejerecicios no están completos*
